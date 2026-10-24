@@ -1,0 +1,1 @@
+# dicejack-win-percent-scale-version
