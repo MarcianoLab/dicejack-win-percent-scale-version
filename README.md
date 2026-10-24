@@ -1,1 +1,1 @@
-# dicejack-win-percent-scale-version
+# dynamic-expectations-experiment
